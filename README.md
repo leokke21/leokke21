@@ -1,4 +1,11 @@
-### Hi there 👋
+## Привет
+Я Попов Леонид, Frontend и Backend разработчик
+### Мой стек
+- HTML + CSS
+- JavaScript
+- PHP (mySQLi, PDO, Изучаю битрикс)
+- SQL
+- C#
 
 <!--
 **leokke21/leokke21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
